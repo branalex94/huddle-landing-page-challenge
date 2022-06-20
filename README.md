@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/branalex94/huddle-landing-page-challenge
-- Live Site URL:
+- Live Site URL: https://branalex94.github.io/huddle-landing-page-challenge
 
 ## My process
 
